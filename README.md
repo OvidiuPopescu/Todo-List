@@ -1,2 +1,2 @@
 # Todo-List
-Todo list app with edit and delete buttons.
+Todo List app with edit and delete buttons.
